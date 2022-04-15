@@ -1,2 +1,2 @@
 # NestedWebView
-解决CoordinatorLayout和WebView滑动冲突，以及webview横向滑动和ViewPager等横滑View冲突
+解决CoordinatorLayout和WebView滑动冲突，以及webview中有横向滑动列表时和ViewPager等横滑View冲突
